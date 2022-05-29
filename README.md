@@ -7,7 +7,8 @@
 工程无其他依赖，直接编译运行即可
 
 ```shell
-go build && ./simple-demo
+go build main.go router.go
+./main.exe
 ```
 
 ### 功能说明
